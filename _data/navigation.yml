@@ -17,8 +17,5 @@ main:
   - title: "兴趣爱好"
     url: /teaching/    
     
-  - title: "探索生活"
-    url: /portfolio/
-    
   - title: "Guide"
     url: /markdown/
