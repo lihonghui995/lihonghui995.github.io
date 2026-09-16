@@ -8,16 +8,16 @@ bi# The following is the order of the links in the header of the website.
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "学习历程🎓"
+  - title: "学习历程"
     url: /publications/
 
-  - title: "工作经历💡"
+  - title: "工作经历"
     url: /talks/    
 
-  - title: "兴趣爱好🍿"
+  - title: "兴趣爱好"
     url: /teaching/    
     
-  - title: "探索生活💌"
+  - title: "探索生活"
     url: /portfolio/
     
   # - title: "CV"
