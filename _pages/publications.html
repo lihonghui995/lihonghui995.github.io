@@ -1,36 +1,34 @@
 ---
 layout: archive
-title: "Publications"
+title: "教育背景"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div style="border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; border-radius: 8px;">
+  <h3>湖南师傅大学 - 本科生 (2022 - 2026)</h3>
+  <p><strong>专业：</strong>网络与新媒体</p>
+  <p>主要研究...（可以写你的科研项目、发表论文、获奖情况等）</p>
+</div>
 
-{% include base_path %}
+<!-- 直线区隔 -->
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 25px 0;">
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div style="border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; border-radius: 8px;">
+  <h3>南京大学 - 硕士研究生 (2026 - 2024)</h3>
+  <p><strong>专业：</strong>软件工程</p>
+  <p><strong>主修课程：</strong>高级算法、分布式系统...</p>
+  <p><strong>荣誉奖项：</strong>一等奖学金、优秀毕业生</p>
+</div>
 
+<!-- 直线区隔 -->
+<hr style="border: 0; border-top: 1px solid #ccc; margin: 25px 0;">
+
+<div style="border: 1px solid #ccc; padding: 15px; margin-bottom: 20px; border-radius: 8px;">
+  <h3>某某大学 - 本科 (2017 - 2021)</h3>
+  <p><strong>专业：</strong>计算机科学与技术</p>
+  <p><strong>GPA：</strong>3.8/4.0</p>
+  <p>主要学习经历...</p>
+</div>
 
 
