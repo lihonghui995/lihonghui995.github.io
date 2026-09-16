@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "李虹慧"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "还没想好"
   location         : "China"
   employer         : "NanJing University"
   uri              : 
@@ -49,10 +49,10 @@ author:
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  codepen          : 
+  dribbble         : 
   github           : "lihonghui995"
-  kaggle           : # Username  
+  kaggle           : 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
