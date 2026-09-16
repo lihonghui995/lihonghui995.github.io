@@ -11,10 +11,10 @@ Hello！我是李虹慧，是南大数字营销方向的研一新生，也是莓
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
-莓莓大王？
+MBTI👀
 ======
-莓莓是只臭脾气小猫。它不给摸、不给抱、不给
-anyways他还是我的小猫
+ENFP💚
+aka快乐小狗
 
 
 
