@@ -8,7 +8,7 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "学习历程"
+  - title: "教育背景"
     url: /publications/
 
   - title: "工作经历"
