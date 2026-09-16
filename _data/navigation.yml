@@ -20,9 +20,6 @@ main:
   - title: "探索生活"
     url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
-    
   # - title: "CV"
   #   url: /cv-json/
     
