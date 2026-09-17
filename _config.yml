@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh—CN"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "主页"
 title_separator          : "-"
 name                     : &name "lihonghui995"
@@ -24,7 +24,7 @@ repository               : "lihonghui995/lihonghui995.github.io"
 author:
   # Biographic information
 author:
-  avatar: "/images/1.png"
+  avatar: "images/1.png"
   name: "李虹慧"
   pronouns:
   bio: "好奇心会带我去更远的地方😗✨"
