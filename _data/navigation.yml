@@ -12,9 +12,6 @@ main:
     url: /publications/
 
   - title: "工作经历"
-    url: /talks/    
-
-  - title: "兴趣爱好"
-    url: /teaching/    
+    url: /talks/     
     
   
