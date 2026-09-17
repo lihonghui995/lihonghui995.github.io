@@ -26,13 +26,13 @@ author:
 author:
   avatar: "/images/1.jpg"
   name: "李虹慧"
+  pronouns:
+  bio: "好奇心会带我去更远的地方😗✨"
+  location: "China"
+  employer: "NanJing University"
+  uri:
+  email: "leeeehh@qq.com"
   # ... 其他保持不变
-  pronouns         : # example: "she/her"  
-  bio              : "好奇心会带我去更远的地方😗✨"
-  location         : "China"
-  employer         : "NanJing University"
-  uri              : 
-  email            : "leeeehh@qq.com" 
 
   # Academic websites
   academia         : 
