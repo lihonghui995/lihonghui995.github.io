@@ -23,8 +23,10 @@ repository               : "lihonghui995/lihonghui995.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-avatar : "/images/wiki/1.jpg"
-  name             : "李虹慧"
+author:
+  avatar: "/images/1.jpg"
+  name: "李虹慧"
+  # ... 其他保持不变
   pronouns         : # example: "she/her"  
   bio              : "好奇心会带我去更远的地方😗✨"
   location         : "China"
