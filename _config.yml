@@ -23,8 +23,7 @@ repository               : "lihonghui995/lihonghui995.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-author:
-   avatar           : "/images/wiki/头像照片.png"
+   avatar           : "profile.png"
   name: "李虹慧"
   pronouns:
   bio: "好奇心会带我去更远的地方😗✨"
