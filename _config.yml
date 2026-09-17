@@ -22,8 +22,7 @@ repository               : "lihonghui995/lihonghui995.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
-  avatar           : "/lisa.jpg"
+  avatar           : "https://avatars.githubusercontent.com/u/583231?v=4"
   name             : "李虹慧"
   pronouns:
   bio: "好奇心会带我去更远的地方😗✨"
